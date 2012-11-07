@@ -1,0 +1,20 @@
+{
+  "name": "abstract-error",
+  "version": "0.0.1",
+  "description": "simple abstract errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mikxail/abstract-error.git"
+  },
+  "keywords": [
+    "abstract",
+    "error"
+  ],
+  "author": "Mikhail Konovalov",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+}
